@@ -17,3 +17,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
   box-sizing: border-box;
 }
 ```
+
+- [X] Learn HTML
+- [X] Learn CSS
+- [X] Learn JS
+- [ ] Learn React
+- [ ] Learn Redux Toolkit
+- [ ] Learn TS
+- [ ] Learn Angular
